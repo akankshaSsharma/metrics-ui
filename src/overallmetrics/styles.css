@@ -1,0 +1,88 @@
+
+.headbar{
+    /* background-color: black;
+    color: white; */
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.content{
+    font-weight: 600;
+    font-size: larger;
+    position: relative;
+    top: 50%;
+}
+
+/* about styles */
+
+.intro-img{
+    width: 100%;
+    height: auto;
+}
+
+.intro-img-pad{
+    padding: 0 15%;
+}
+
+.intro-title-card{
+    padding: 5% 5%;
+    box-shadow: none;
+}
+
+/* web styles */
+
+.web-padding{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.web-padding-2{
+    padding-top: 2%;
+}
+
+
+/* globe styles */
+
+.globe-padding{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.globe-padding-2{
+    padding-top: 2%;
+}
+
+/* feature styles */
+
+.two-cards-padding{
+    padding: 0 5%;
+}
+
+/* connect styles */
+
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: 80vh;
+    width: 80vw;
+  }
+  .rainbow-m-horizontal_xx-large {
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.rainbow-p-horizontal_xx-large {
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+.rainbow-p-vertical_large {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
